@@ -8,10 +8,10 @@ by clicking on a button that adds items to the recycler view that represents a n
 and be reviewed.
 
 Concepts planned to be used:
-Recycler View
-Activities
-Fragments
-Buttons
-Fomatting and Themes
-Checkbox
-Icon
+-Recycler View
+-Activities
+-Fragments
+-Buttons
+-Fomatting and Themes
+-Checkbox
+-Icon
